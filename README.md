@@ -8,6 +8,12 @@ Dr Chen has a high-level output of research publications in leading internationa
 
 Dr Chen has published over 100 academic papers in both high impact international academic journal and international conferences, 20+ invited seminars and talks, 10+ authorized patents, and has been selected as a Publons' top 1% of reviewers in Computer Science and Engineering and Book manuscripts reviewer for Publishers, including: Springer, Elsevier, IEEE, Cambridge University Press, CRC Press. He has been actively involved in both academic research and KTP projects as PI and CoI funded by EPSRC (UK), Horizon2020 (EU), NSFC (China), National Key Research and Development Program of China, SAFEA: High-End Foreign Experts Project, and Industrial funding bodies. Dr Chen has been the Programme Committee member or organiser for over 10+ international conferences, including IEEE/ASME/ACM/Springer conferences. For example, as of the co-organiser of the WCCI'16 Special Session on Computational Intelligence for Industry 4.0 and CEC'19 Special Session on Evolutionary Computation for Creativity, Manufacture and Engineering Management in the Industry 4.0 Era. Besides, he is an editorial board member of a high-impact journal (CAS JCR Q2) , and he has been a guest editor for five special issues. Dr Chen has graduated 2 PhD and 30+ MSc research students, is supervising 2 PhD students, and has examined over 30+ PhD/MSc students' theses as both internal and external examiner. 
 
+
+**Research Interests**
+* Artificial Intelligence 
+* Industry 4.0 and Digital Manufacturing 
+* Robotics and Autonomous Systems
+
 **Associate Editorship**
 * IEEE ACCESS
 * PLOS One
@@ -40,7 +46,29 @@ https://github.com/i4AILAB/2018-Computational-Intelligence-Assisted-Design-In-th
 (3) Mathworks 
 https://ww2.mathworks.cn/matlabcentral/fileexchange/68483-ciad-book-test-functions 
 
-**Links**
+**Teaching**
+* AI-driven Design for Robotics 
+  https://github.com/LeoYiChen/AI-plus-Micro-Air-Vehicle
+* Industry 4.0 in Manufacturing - An Introduction
+  https://github.com/LeoYiChen/Industry4.0-An-Introduction
+* Fuzzy Logic Control
+  https://github.com/LeoYiChen/Fuzzy-Logic-Control---an-introduction 
+* Modern Control Engineering
+* Modelling and Simulation of Robotic Systems
+* C/MATLAB Programming 
+  https://github.com/LeoYiChen/CP-S2E 
+* Advanced Manufacturing Technology 
+* Scientific Writing
+  https://github.com/LeoYiChen/Scientific-Writing-01---Writing-with-LaTex
+  https://github.com/LeoYiChen/Scientific-Writing-02---How-to-prepare-a-manuscript-for-authors-
+* Engineering Vibration
+* Engineering Computing
+* CAD/CAE
+* Prognostics and Health Management 
+* Engineering Design and Analysis
+* Introduction to Software Testing
+
+**Publications and Links**
 * Github: https://github.com/LeoYiChen
 * Google Scholar: http://scholar.google.com/citations?hl=en&user=AxmpG84AAAAJ        
 * ORCID ID: 0000-0001-7960-8374
@@ -49,7 +77,5 @@ https://ww2.mathworks.cn/matlabcentral/fileexchange/68483-ciad-book-test-functio
 * Publons: https://publons.com/author/1304786
 * Global Peer Review Awards: ESI top **1%** of reviewers in Computer Science and Engineering (https://publons.com/awards/peer-review/2019/by-field) 
 * ResearchGate: www.researchgate.net/profile/Leo_Chen23
-
-
 
 https://leoyichen.github.io/
