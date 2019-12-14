@@ -47,7 +47,7 @@ https://ww2.mathworks.cn/matlabcentral/fileexchange/68483-ciad-book-test-functio
 * Researcher ID: P-8641-2017
 * Scopus Author Identifier: 56021250400
 * Publons: https://publons.com/author/1304786
-* Global Peer Review Awards: ESI top  <span style="color:red;"> 1% </span> of reviewers in Computer Science and Engineering (https://publons.com/awards/peer-review/2019/by-field) 
+* Global Peer Review Awards: ESI top **1%** of reviewers in Computer Science and Engineering (https://publons.com/awards/peer-review/2019/by-field) 
 
 
 
