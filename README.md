@@ -28,9 +28,9 @@ Dr Chen has published over 100 academic papers in both high impact international
               https://ieeeaccess.ieee.org/special-sections/uncertainty-quantification-in-robotic-applications/
 
 **Volunteer Activities**
-* IET Mentor(2017)
-* Professional Review Interviewer (2018)
-* Membership of EPSRC Associate Peer Review College (2020-)
+* IET Mentor
+* Professional Review Interviewer 
+* Membership of EPSRC Associate Peer Review College 
 
 **The CIAD Book**
 * Yi Chen, Yun Li, (2018), Computational Intelligence Assisted Design (In the Era of Industry 4.0), CRC Press (ISBN 978-1-4987-6066-9)
