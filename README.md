@@ -1,4 +1,10 @@
 # Dr Leo Chen(BSc, MSc, PhD, CEng, FIMechE, FHEA, SMIEEE, MIET) 
+**Senior Lecturer in Engineering Design**
+* Email: leo.chen@Newcastle.ac.uk
+* Website: https://www.ncl.ac.uk/engineering/staff/profile/leochen.html#background
+* Address: M17A, Stephenson Building
+* School of Engineering, Newcastle University, Newcastle upon Tyne, NE1 7RU, United Kingdom
+
 
 Dr Chen (M'10-SM'17) received the B.Sc degree in Automotive Engineering from Chongqing University of Technology, in 2000, the M.Sc. degree in Automotive Engineering from Chongqing University, in 2004, and the Ph.D. degrees in Mechanical Engineering from University of Glasgow, in 2010. He has been taking a leading role in the previous and current department to maintain cross-disciplinary research links, and develop external research collaborations both nationally and internationally. He has been leading a few research grants in the areas of artificial intelligence, high-performance computing, robotics and autonomous systems, and studies in multi-disciplinary contexts. 
 
@@ -22,10 +28,14 @@ Dr Chen has published over 100 academic papers in both high impact international
 **Editorial Board Member**
 * Inderscience, International Journal of Bio-Inspired Computation (SCI indexed, IF=3.969, JCR=Q2)
 * Benthamscience.org, Recent Patents on Engineering (EI/Compendex indexed)
+* MDPI, Inventions  (EI indexed)
 
 **Guest Editorship**
-* IEEE Access,  Uncertainty Quantification in Robotic Applications
-              https://ieeeaccess.ieee.org/special-sections/uncertainty-quantification-in-robotic-applications/
+* Inventions(ISSN 2411-5134), Special Issue "AI-Enhanced Innovation for Products and Systems in the Era of Industry 4.0" (30/Sep/2020)
+   https://www.mdpi.com/journal/inventions/special_issues/AI_industry
+
+* IEEE Access, Uncertainty Quantification in Robotic Applications  (01/May/2020)     
+   https://ieeeaccess.ieee.org/special-sections/uncertainty-quantification-in-robotic-applications/
 
 **Volunteer Activities**
 * IET Mentor
@@ -78,5 +88,14 @@ https://ww2.mathworks.cn/matlabcentral/fileexchange/68483-ciad-book-test-functio
 * Publons: https://publons.com/author/1304786
 * Global Peer Review Awards: ESI top **1%** of reviewers in Computer Science and Engineering (https://publons.com/awards/peer-review/2019/by-field) 
 * ResearchGate: www.researchgate.net/profile/Leo_Chen23
+
+**International Conference and Workshop:**
+* Incoming: 
+RACI2020: China Scotland ASEAN Robotics & Automation Conference for the Industry 4.0 age 
+
+* Past:  
+IEEE WCCI2020 Special Session SC29: on Computational Intelligence and Smart Manufacturing (CISM)
+IEEE WCCI2020 Special Session SC05: on AI in Reliability Engineering and Applications (AIREA)
+IEEE WCCI2020 Special Session SC24: Computational Intelligence-Driven Innovation for Multi-disciplinary Applications in the Era of Industry 4.0 (CI4APP)
 
 https://leoyichen.github.io/
