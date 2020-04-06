@@ -28,7 +28,7 @@ Dr Chen has published over 100 academic papers in both high impact international
 **Editorial Board Member**
 * Inderscience, International Journal of Bio-Inspired Computation (SCI indexed, IF=3.969, JCR=Q2)
 * Benthamscience.org, Recent Patents on Engineering (EI/Compendex indexed)
-* MDPI, Inventions  (EI indexed)
+* MDPI, Inventions (EI indexed)
 
 **Guest Editorship**
 * Inventions(ISSN 2411-5134), Special Issue "AI-Enhanced Innovation for Products and Systems in the Era of Industry 4.0" (30/Sep/2020)
@@ -41,6 +41,7 @@ Dr Chen has published over 100 academic papers in both high impact international
 * IET Mentor
 * Professional Review Interviewer 
 * Membership of EPSRC Associate Peer Review College 
+* Membership of The Knowledge Exchange Unit (KEU) COVID-19 Outbreak Expert Database, UK Parliament 
 
 **The CIAD Book**
 * Yi Chen, Yun Li, (2018), Computational Intelligence Assisted Design (In the Era of Industry 4.0), CRC Press (ISBN 978-1-4987-6066-9)
