@@ -40,8 +40,8 @@ Dr Chen has published over 100 academic papers in both high impact international
 **Volunteer Activities**
 * IET Mentor
 * Professional Review Interviewer 
-* Membership of EPSRC Associate Peer Review College 
-* Membership of The Knowledge Exchange Unit (KEU) COVID-19 Outbreak Expert Database, UK Parliament 
+* Member of EPSRC Associate Peer Review College 
+* Member of The Knowledge Exchange Unit (KEU) COVID-19 Outbreak Expert Database, UK Parliament 
 
 **The CIAD Book**
 * Yi Chen, Yun Li, (2018), Computational Intelligence Assisted Design (In the Era of Industry 4.0), CRC Press (ISBN 978-1-4987-6066-9)
