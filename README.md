@@ -91,17 +91,14 @@ https://ww2.mathworks.cn/matlabcentral/fileexchange/68483-ciad-book-test-functio
 * ResearchGate: www.researchgate.net/profile/Leo_Chen23
 
 **International Conference and Workshop:**
-* Incoming: 
 
 (1) RACI2020: China Scotland ASEAN Robotics & Automation Conference for the Industry 4.0 age 
 
-* Past:  
+(2) IEEE WCCI2020 Special Session SC29: on Computational Intelligence and Smart Manufacturing (CISM)
 
-(1) IEEE WCCI2020 Special Session SC29: on Computational Intelligence and Smart Manufacturing (CISM)
+(3) IEEE WCCI2020 Special Session SC05: on AI in Reliability Engineering and Applications (AIREA)
 
-(2) IEEE WCCI2020 Special Session SC05: on AI in Reliability Engineering and Applications (AIREA)
-
-(3) IEEE WCCI2020 Special Session SC24: Computational Intelligence-Driven Innovation for Multi-disciplinary Applications in the Era of Industry 4.0 (CI4APP)
+(4) IEEE WCCI2020 Special Session SC24: Computational Intelligence-Driven Innovation for Multi-disciplinary Applications in the Era of Industry 4.0 (CI4APP)
 
 
 ***
