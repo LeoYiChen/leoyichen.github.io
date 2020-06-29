@@ -25,10 +25,11 @@ Dr Chen has published over 100 academic papers in both high impact international
 * PLOS One
 
 
-**Editorial Board Member**
+**Editor and Editorial Board Member**
 * Inderscience, International Journal of Bio-Inspired Computation (SCI indexed, IF=3.969, JCR=Q2)
 * Benthamscience.org, Recent Patents on Engineering (EI/Compendex indexed)
-* MDPI, Inventions (EI indexed)
+* MDPI, Inventions, Section Editor for 'Inventions and innovation in Advanced Manufacturing' (EI indexed) 
+
 
 **Guest Editorship**
 * Inventions(ISSN 2411-5134), Special Issue "AI-Enhanced Innovation for Products and Systems in the Era of Industry 4.0" (30/Sep/2020)
