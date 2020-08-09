@@ -39,10 +39,13 @@ Dr Chen has published over 100 academic papers in both high impact international
    https://ieeeaccess.ieee.org/special-sections/uncertainty-quantification-in-robotic-applications/
 
 **Volunteer Activities**
-* IET Mentor
-* Professional Review Interviewer 
-* Member of EPSRC Associate Peer Review College 
-* Member of The Knowledge Exchange Unit (KEU) COVID-19 Outbreak Expert Database, UK Parliament 
+* IET Mentor (2017-) 
+* Professional Review Interviewer (2018-)
+* Member of EPSRC Associate Peer Review College (2020-)
+* Member of UKRI Peer Review College - Future Leaders Fellowships (2020-)
+* Member of The COVID-19 Outbreak Expert Database, Knowledge Exchange Unit, UK Parliament (2020-)
+* Member of The Government's COVID-19 Outbreak Expert Database, Cabinet Office Open Innovation Team, UK Government (2020-)
+
 
 **The CIAD Book**
 * Yi Chen, Yun Li, (2018), Computational Intelligence Assisted Design (In the Era of Industry 4.0), CRC Press (ISBN 978-1-4987-6066-9)
