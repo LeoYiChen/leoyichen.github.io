@@ -19,6 +19,7 @@ Dr Chen has published over 100 academic papers in both high impact international
 * Artificial Intelligence 
 * Industry 4.0 and Digital Manufacturing 
 * Robotics and Autonomous Systems
+* Data Analytics
 
 **Associate Editorship**
 * IEEE ACCESS
