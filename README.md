@@ -1,4 +1,4 @@
-# Dr Leo Chen (BSc, MSc, PhD, CEng, FIMechE, FHEA, SMIEEE, MIET) 
+# Dr Leo Chen (BSc, MSc, PhD, CEng, FIMechE, SFHEA, SMIEEE, MIET) 
 **Senior Lecturer in Engineering Design**
 * Email: leo.chen@Newcastle.ac.uk
 * Website: https://www.ncl.ac.uk/engineering/staff/profile/leochen.html#background
