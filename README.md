@@ -107,11 +107,7 @@ https://ww2.mathworks.cn/matlabcentral/fileexchange/68483-ciad-book-test-functio
 
 
 ***
-<!-- Start of WebFreeCounter Code -->
-<a href="https://www.webfreecounter.com/" target="_blank"><img src="https://www.webfreecounter.com/hit.php?id=gmaacnc&nd=9&style=9" border="0" alt="web counter"></a>
-<!-- End of WebFreeCounter Code -->
 
-***
 **Download**
 **01 - Introduction to AI**
 https://github.com/LeoYiChen/Introduction2AI-202010/blob/main/01-introduction-20201022.pdf
