@@ -34,6 +34,9 @@ Dr Chen has published over 100 academic papers in both high impact international
 
 
 **Guest Editorship**
+* Sensors (IF: 3.275, ISSN 1424-8220, JCR Q3), Special Issue "Sensors and Autonomous Systems in Smart Cities" (30/Nov/2021)
+   https://www.mdpi.com/journal/sensors/special_issues/Systems_Sensors
+
 * Inventions(ISSN 2411-5134), Special Issue "AI-Enhanced Innovation for Products and Systems in the Era of Industry 4.0" (30/Sep/2020)
    https://www.mdpi.com/journal/inventions/special_issues/AI_industry
 
