@@ -113,8 +113,11 @@ https://ww2.mathworks.cn/matlabcentral/fileexchange/68483-ciad-book-test-functio
 ***
 
 **Download**
-**01 - Introduction to AI**
-https://github.com/LeoYiChen/Introduction2AI-202010/blob/main/01-introduction-20201022.pdf
+**01 - Introduction to AI (EN)**
+https://github.com/LeoYiChen/Introduction2AI-EN-202010/blob/main/00-Intro2AI-course%20info-NCL-20201021.pdf
+
+**01 - Introduction to AI (中文 CN)**
+https://github.com/LeoYiChen/Introduction2AI-CN-202010/blob/main/01-introduction-20201022.pdf
 
 **02 - Introduction to Industry 4.0**  
 https://github.com/LeoYiChen/What-is-Industry-4.0---An-Introduction/blob/master/01-introduction%20to%20i4-20200606.pdf
