@@ -111,6 +111,10 @@ https://ww2.mathworks.cn/matlabcentral/fileexchange/68483-ciad-book-test-functio
 
 
 ***
+**Grants**
+* Royal Society International Exchanges Scheme – Cost Share Programme 2021-2022
+ 
+* Price discovery and market making activities in cryptocurrency markets: An artificial intelligence perspective, Chaire Fintech, AMF-Finance Montréal, 2021
 
 **Download**
 **01 - Introduction to AI (EN)**
