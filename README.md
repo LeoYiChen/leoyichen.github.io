@@ -116,6 +116,7 @@ https://ww2.mathworks.cn/matlabcentral/fileexchange/68483-ciad-book-test-functio
  
 * Price discovery and market making activities in cryptocurrency markets: An artificial intelligence perspective, Chaire Fintech, AMF-Finance Montréal, 2021
 
+***
 **Download**
 **01 - Introduction to AI (EN)**
 https://github.com/LeoYiChen/Introduction2AI-EN-202010/blob/main/00-Intro2AI-course%20info-NCL-20201021.pdf
