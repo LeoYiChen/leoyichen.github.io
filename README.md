@@ -44,7 +44,7 @@ Dr Chen has published over 100 academic papers in both high impact international
    https://ieeeaccess.ieee.org/special-sections/uncertainty-quantification-in-robotic-applications/
 
 **Professional Activities**
-* Member of NERC Constructing a Digital Environment (CDE) Expert Network
+* Member of NERC Constructing a Digital Environment (CDE) Expert Network (https://digitalenvironment.org/)
 * Member of UKRI Peer Review College - Future Leaders Fellowships  
 * Member of EPSRC Associate Peer Review College  
 * Member of COVID-19 Outbreak Expert Database, Knowledge Exchange Unit, UK Parliament  
