@@ -129,4 +129,5 @@ https://github.com/LeoYiChen/Introduction2AI-CN-202010/blob/main/01-introduction
 https://github.com/LeoYiChen/What-is-Industry-4.0---An-Introduction/blob/master/01-introduction%20to%20i4-20200606.pdf
 
 ***
+**https://www.thersa.org/fellowship/find-a-fellow/profile/166734**
 **https://leoyichen.github.io/**
