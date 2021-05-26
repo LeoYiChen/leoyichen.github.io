@@ -117,6 +117,14 @@ https://ww2.mathworks.cn/matlabcentral/fileexchange/68483-ciad-book-test-functio
  
 * Price discovery and market making activities in cryptocurrency markets: An artificial intelligence perspective, Chaire Fintech, AMF-Finance Montréal, 2021
 
+
+***
+**Invited Seminars or Talks**
+* May/2021, ‘AI-driven Engineering Design for Energy System’, EPSRC National Centre for Energy Systems Integration, online Webinars.
+https://www.ncl.ac.uk/cesi/events/webinars/#optimisationgroupwebinars
+https://github.com/LeoYiChen/leoyichen.github.io/blob/master/LeoChen20210526v2.jpg
+https://github.com/LeoYiChen/leoyichen.github.io/blob/master/LeoChen20210526v2.pdf
+
 ***
 **Download**
 **01 - Introduction to AI (EN)**
