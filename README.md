@@ -125,6 +125,8 @@ https://www.ncl.ac.uk/cesi/events/webinars/#optimisationgroupwebinars
 https://github.com/LeoYiChen/leoyichen.github.io/blob/master/LeoChen20210526v2.jpg
 https://github.com/LeoYiChen/leoyichen.github.io/blob/master/LeoChen20210526v2.pdf
 
+on Youtube: https://www.youtube.com/watch?v=X7GBYghn6E0&list=PLQbrGIdhp3aFF8VCzrHiNFVvl5G-2lRuU&index=5&ab_channel=NationalCentreforEnergySystemsIntegration
+
 ***
 **Download**
 **01 - Introduction to AI (EN)**
