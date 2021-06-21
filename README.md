@@ -1,6 +1,6 @@
 # Dr Leo Chen (BSc, MSc, PhD, CEng, FIET, FIMechE, FRSA, FHEA, SMIEEE) 
 **Senior Lecturer in Engineering Design**
-* Email: leo.chen@Newcastle.ac.uk
+* Email: leo.chen@ieee.org
 * Website: https://www.ncl.ac.uk/engineering/staff/profile/leochen.html#background
 * Address: M17A, Stephenson Building
 * School of Engineering, Newcastle University, Newcastle upon Tyne, NE1 7RU, United Kingdom
