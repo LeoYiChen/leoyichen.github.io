@@ -16,8 +16,8 @@ Dr Chen has published over 100 academic papers in both high impact international
 
 
 **Research Interests**
-* Artificial Intelligence 
-* Industry 4.0, Digital Twin and Digital Manufacture 
+* Artificial Intelligence
+* Industry 4.0, Digital Twins and Digital Manufacturing
 * Robotics and Autonomous Systems
 * Data Analytics
 
@@ -142,3 +142,34 @@ https://github.com/LeoYiChen/What-is-Industry-4.0---An-Introduction/blob/master/
 **https://www.thersa.org/fellowship/find-a-fellow/profile/166734**
 
 **https://leoyichen.github.io/**
+
+*** 
+
+# Centre for Industry 4.0 and Artificial Intelligence (Ci4AI)  
+**Research Themes:**
+* Artificial Intelligence
+* Industry 4.0, Digital Twins and Digital Manufacturing
+* Robotics and Autonomous Systems
+* Data Analytics
+
+**Staff** 
+* Director - Leo Chen
+ 
+**Researchers** 
+* Andreas Eliades - Low cost extraction of Intelligent Video Analytics from Vehicle Traffic Flows Using Deep Neural Networks
+
+* Charlotte McMain - Pharma 4.0 and Oral Solid Dose (OSD) Manufacturing: An exploration of the challenges facing OSD manufacture and how Industry 4.0 enabling technologies can address them
+
+* Marcus Walmsley - Research, Design and Analysis of a Dragonfly Inspired Wing for A Micro Air Vehicle  
+
+* Michael Langli - The Design and Analysis of Insect Inspired Wings for an Inch-Sized Flapping Micro Air Vehicle
+
+* Aaron Foster - Assessment of IMO 2020 Sulphur Cap Compliance Solutions
+
+* Daniel Bedborough - Design and Development of an Unmanned Surface Vessel 
+
+* Henry Mules - Researching And Designing A Multi Use Unmanned Surface Research Vessel
+
+* Ioannis Livanos - Algorithm for Ship Design Optimization
+
+* Spyridon Vlachos - Research on Prognostics and Health Management for Unmanned Surface Vehicles
