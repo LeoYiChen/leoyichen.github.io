@@ -152,10 +152,10 @@ https://github.com/LeoYiChen/What-is-Industry-4.0---An-Introduction/blob/master/
 * Robotics and Autonomous Systems
 * Data Analytics
 
-**Staff** 
+**Staff:** 
 * Director - Leo Chen
  
-**Researchers** 
+**Researchers:** 
 * Andreas Eliades - Low cost extraction of Intelligent Video Analytics from Vehicle Traffic Flows Using Deep Neural Networks
 
 * Charlotte McMain - Pharma 4.0 and Oral Solid Dose (OSD) Manufacturing: An exploration of the challenges facing OSD manufacture and how Industry 4.0 enabling technologies can address them
