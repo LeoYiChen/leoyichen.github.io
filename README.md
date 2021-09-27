@@ -16,10 +16,10 @@ Dr Chen has published over 100 academic papers in both high impact international
 
 
 **Research Interests**
-* Artificial Intelligence
-* Industry 4.0, Digital Twins and Digital Manufacturing
-* Robotics and Autonomous Systems
-* Data Analytics
+* Artificial Intelligence and Cross-disciplinary Applications
+* Industry 4.0, Digital Twin and Digital Manufacture
+* Robotics and Autonomous Systems 
+* High-Performance Computing and Data Analytics
 
 
 **Associate Editorship**
