@@ -110,6 +110,8 @@ https://ww2.mathworks.cn/matlabcentral/fileexchange/68483-ciad-book-test-functio
 
 * (4) IEEE WCCI2020 Special Session SC24: Computational Intelligence-Driven Innovation for Multi-disciplinary Applications in the Era of Industry 4.0 (CI4APP)
 
+* (5) Special for IEEE WCCI 2022, Computational Intelligence Enabled Prognostics and Health Management
+http://dxxy.qzc.edu.cn/2021/1215/c2723a60426/page.psp
 
 ***
 **Grants**
