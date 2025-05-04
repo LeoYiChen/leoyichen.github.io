@@ -1,4 +1,4 @@
-# Dr Leo Chen (BSc, MSc, PhD, CEng, FIET, FIMechE, FRSA, FHEA, SMIEEE) 
+# Dr Leo Chen (BSc, MSc, PhD, CEng, FIET, FIMechE, FRSA, SFHEA, SMIEEE) 
 **Senior Lecturer in Engineering Design**
 * Email: leo.chen@ieee.org
 * Website: https://www.ncl.ac.uk/engineering/staff/profile/leochen.html#background
