@@ -94,11 +94,7 @@ https://ww2.mathworks.cn/matlabcentral/fileexchange/68483-ciad-book-test-functio
 * Github: https://github.com/LeoYiChen
 * Google Scholar: http://scholar.google.com/citations?hl=en&user=AxmpG84AAAAJ        
 * ORCID ID: 0000-0001-7960-8374
-* Researcher ID: P-8641-2017
-* Scopus Author Identifier: 56021250400
-* Publons: https://publons.com/author/1304786
-* Global Peer Review Awards: ESI top **1%** of reviewers in Computer Science and Engineering (https://publons.com/awards/peer-review/2019/by-field) 
-* ResearchGate: www.researchgate.net/profile/Leo_Chen23
+ 
 
 **International Conference and Workshop:**
 
